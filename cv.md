@@ -1,8 +1,8 @@
 * **Name:** Yana 
 * **Surname:** Hrabouskaya 
 * **Сontact Information:**
- * **Number:** +375-29-607-64-04
- * **E-mail:** hr_yana@mail.ru
+   * **Number:** +375-29-607-64-04
+   * **E-mail:** hr_yana@mail.ru
 
 ## ***About me***
 
